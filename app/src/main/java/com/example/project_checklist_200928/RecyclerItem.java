@@ -1,8 +1,8 @@
 package com.example.project_checklist_200928;
 
 public class RecyclerItem {
-    String title;
-    String date;
+    private String title;
+    private String date;
 
     public void setTitle(String title){
         this.title = title;
